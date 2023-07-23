@@ -1,2 +1,2 @@
 # ethicate
-developing ethical mindsets
+https://devpost.com/software/ethicate
